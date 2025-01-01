@@ -1,3 +1,4 @@
 git fullform is global information tracker
 bhumika 
 git collab
+git init
